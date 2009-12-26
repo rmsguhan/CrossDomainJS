@@ -1,0 +1,16 @@
+====================================================
+Javascript Cross Domain Communication Library 
+====================================================
+
+= Project Details = 
+Author : Subramanyan Murali 
+Web Page: http://rmsguhan.com
+
+= Description =
+Cross domain scripting on Javascript is not allowed by there are many 
+ways one can accomplish this. 
+Cross domain can be for fetching data asynchronously or for communication 
+across 2 pages on 2 different in a window. 
+This project aims to create a library that will allow X-Domain communication in a safe 
+and easy to use way. 
+HTML 5 
